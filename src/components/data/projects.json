@@ -1,0 +1,30 @@
+[
+  {
+    "key": 1,
+    "title": "Food Delivery Website",
+    "imageSrc": "https://www.ibef.org/uploads/blog/1729668836_ec78aa7b4cd655c41d8d.png",
+    "description": "A full-stack delivery app using MERN for seamless ordering and payments.",
+    "source": "https://github.com/muskiagrwal/food-del.git"
+  },
+  {
+    "key": 2,
+    "title": "Blog Website",
+    "imageSrc": "https://img.freepik.com/free-psd/fashion-blog-landing-page-template_23-2149640128.jpg?semt=ais_hybrid",
+    "description": "A responsive blog platform built with Reactjs and MERN stack for content creation and interaction.",
+    "source": "https://github.com/muskiagrwal/blog.git"
+  },
+  {
+    "key": 3,
+    "title": "Sundown Website Clone",
+    "imageSrc": "https://cdn3.f-cdn.com//files/download/221587880/Screenshot%20%28126%29.png?width=780&height=438&fit=crop",
+    "description": "A front-end clone of the Sundown website using HTML, CSS and Javascript .",
+    "source": "https://github.com/muskiagrwal/sundown-studio-website-clone.git"
+  },
+  {
+    "key": 4,
+    "title": "Weather App",
+    "imageSrc": "https://i.ytimg.com/vi/MIYQR-Ybrn4/sddefault.jpg",
+    "description": "A simple weather app built with Javascript,fetching real-time data using OpenWeather API.",
+    "source": "https://github.com/muskiagrwal/Front-End-Coding-Challenge.git"
+  }
+]

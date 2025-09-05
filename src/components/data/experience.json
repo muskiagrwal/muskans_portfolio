@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "role": "   Java Programmer",
+    "organisation": "CodSoft",
+    "startDate": "Sep 2023",
+    "endDate": "Oct 2023",
+    "location": "Remote",
+    "experiences": [
+      "Built four real-world applications using Java",
+      "Gained hands-on coding and proble-solving skills"
+    ],
+    "imageSrc": "company/codsoft.png"
+  }
+]
